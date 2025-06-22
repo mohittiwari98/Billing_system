@@ -1,5 +1,7 @@
 # Billing_system
-
+ <div align="center">
+  <img src="1230.PNG" alt="DevOpsShack Banner">
+</div>
 
 A simple GUI-based Billing Management System built using Python with `tkinter` for the interface, designed to manage customer bills, calculate totals, and generate receipts.
 
@@ -15,4 +17,5 @@ A simple GUI-based Billing Management System built using Python with `tkinter` f
 - Python 3.x
 - Required Python library:
   - `tkinter` (usually included with Python)
-  - -in
+    
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
