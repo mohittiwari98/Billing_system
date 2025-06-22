@@ -1,4 +1,11 @@
 # Billing_system
+
+![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
+![](https://img.shields.io/badge/Tool_Used-Tkinter-orange.svg)
+![](https://img.shields.io/badge/Python_Version-3.7-blue.svg)
+![](https://img.shields.io/badge/Application-Visualization-brown.svg)
+![](https://img.shields.io/badge/Status-Complete-green.svg)
+
  <div align="center">
   <img src="1230.PNG" alt="DevOpsShack Banner">
 </div>
